@@ -1,0 +1,548 @@
+{
+  "match": {
+    "competition": "FIFA World Cup 2026",
+    "stage": "Round of 32",
+    "date": "2026-07-03",
+    "kickoff": "18:00",
+    "venue": "Miami Stadium",
+    "city": "Miami / USA",
+    "country": "United States",
+    "referee": "Drew Fischer",
+    "home_team": "Argentina",
+    "away_team": "Cabo Verde",
+    "status": "After Extra Time",
+    "home_score": 3,
+    "away_score": 2
+  },
+
+  "teams": {
+    "home": {
+      "id": 1,
+      "name": "Argentina",
+      "coach": "Lionel Scaloni",
+      "formation": "4-4-2",
+      "players": {
+        "starting_lineup": [
+          {
+            "id": 1,
+            "number": 23,
+            "first_name": "Emiliano",
+            "last_name": "MARTINEZ",
+            "display_name": "MARTINEZ Emiliano",
+            "position": "GK",
+            "captain": false
+          },
+          {
+            "id": 2,
+            "number": 6,
+            "first_name": "Lisandro",
+            "last_name": "MARTINEZ",
+            "display_name": "MARTINEZ Lisandro",
+            "position": "DF",
+            "captain": false
+          },
+          {
+            "id": 3,
+            "number": 7,
+            "first_name": "Rodrigo",
+            "last_name": "DE PAUL",
+            "display_name": "DE PAUL Rodrigo",
+            "position": "MF",
+            "captain": false
+          },
+          {
+            "id": 4,
+            "number": 10,
+            "first_name": "Lionel",
+            "last_name": "MESSI",
+            "display_name": "MESSI Lionel",
+            "position": "FW",
+            "captain": true
+          },
+          {
+            "id": 5,
+            "number": 13,
+            "first_name": "Cristian",
+            "last_name": "ROMERO",
+            "display_name": "ROMERO Cristian",
+            "position": "DF",
+            "captain": false
+          },
+          {
+            "id": 6,
+            "number": 16,
+            "first_name": "Thiago",
+            "last_name": "ALMADA",
+            "display_name": "ALMADA Thiago",
+            "position": "FW",
+            "captain": false
+          },
+          {
+            "id": 7,
+            "number": 20,
+            "first_name": "Alexis",
+            "last_name": "MAC ALLISTER",
+            "display_name": "MAC ALLISTER Alexis",
+            "position": "MF",
+            "captain": false
+          },
+          {
+            "id": 8,
+            "number": 22,
+            "first_name": "Lautaro",
+            "last_name": "MARTINEZ",
+            "display_name": "MARTINEZ Lautaro",
+            "position": "FW",
+            "captain": false
+          },
+          {
+            "id": 9,
+            "number": 24,
+            "first_name": "Enzo",
+            "last_name": "FERNANDEZ",
+            "display_name": "FERNANDEZ Enzo",
+            "position": "MF",
+            "captain": false
+          },
+          {
+            "id": 10,
+            "number": 25,
+            "first_name": "Facundo",
+            "last_name": "MEDINA",
+            "display_name": "MEDINA Facundo",
+            "position": "DF",
+            "captain": false
+          },
+          {
+            "id": 11,
+            "number": 26,
+            "first_name": "Nahuel",
+            "last_name": "MOLINA",
+            "display_name": "MOLINA Nahuel",
+            "position": "DF",
+            "captain": false
+          }
+        ],
+        "substitutes": [
+          {
+            "id": 12,
+            "number": 3,
+            "first_name": "Nicolas",
+            "last_name": "TAGLIAFICO",
+            "display_name": "TAGLIAFICO Nicolas",
+            "position": "DF",
+            "captain": false
+          },
+          {
+            "id": 13,
+            "number": 4,
+            "first_name": "Gonzalo",
+            "last_name": "MONTIEL",
+            "display_name": "MONTIEL Gonzalo",
+            "position": "DF",
+            "captain": false
+          },
+          {
+            "id": 14,
+            "number": 5,
+            "first_name": "Leandro",
+            "last_name": "PAREDES",
+            "display_name": "PAREDES Leandro",
+            "position": "MF",
+            "captain": false
+          },
+          {
+            "id": 15,
+            "number": 9,
+            "first_name": "Julian",
+            "last_name": "ALVAREZ",
+            "display_name": "ALVAREZ Julian",
+            "position": "FW",
+            "captain": false
+          },
+          {
+            "id": 16,
+            "number": 15,
+            "first_name": "Nico",
+            "last_name": "GONZALEZ",
+            "display_name": "GONZALEZ Nico",
+            "position": "MF",
+            "captain": false
+          }
+        ]
+      }
+    },
+
+    "away": {
+      "name": "Cabo Verde",
+      "coach": "Bubista",
+      "formation": "4-1-4-1",
+      "players": {
+        "starting_lineup": [
+          {
+            "id": 17,
+            "number": 1,
+            "first_name": "",
+            "last_name": "",
+            "display_name": "VOZINHA",
+            "position": "GK",
+            "captain": false
+          },
+          {
+            "id": 18,
+            "number": 3,
+            "first_name": "Josimar",
+            "last_name": "Dias",
+            "display_name": "DINEY BORGES",
+            "position": "DF",
+            "captain": false
+          },
+          {
+            "id": 19,
+            "number": 4,
+            "first_name": "PICO",
+            "last_name": "LOPES",
+            "display_name": "PICO LOPES",
+            "position": "DF",
+            "captain": false
+          },
+          {
+            "id": 20,
+            "number": 6,
+            "first_name": "KEVIN",
+            "last_name": "PINA",
+            "display_name": "KEVIN PINA",
+            "position": "MF",
+            "captain": false
+          },
+          {
+            "id": 21,
+            "number": 7,
+            "first_name": "JOVANE",
+            "last_name": "CABRAL",
+            "display_name": "JOVANE CABRAL",
+            "position": "MF",
+            "captain": false
+          },
+          {
+            "id": 22,
+            "number": 13,
+            "first_name": "SIDNY",
+            "last_name": "LOPES CABRAL",
+            "display_name": "SIDNY LOPES CABRAL",
+            "position": "DF",
+            "captain": false
+          },
+          {
+            "id": 23,
+            "number": 14,
+            "first_name": "DEROY",
+            "last_name": "DUARTE",
+            "display_name": "DEROY DUARTE",
+            "position": "MF",
+            "captain": false
+          },
+          {
+            "id": 24,
+            "number": 15,
+            "first_name": "LAROS",
+            "last_name": "DUARTE",
+            "display_name": "LAROS DUARTE",
+            "position": "MF",
+            "captain": false
+          },
+          {
+            "id": 25,
+            "number": 20,
+            "first_name": "RYAN",
+            "last_name": "MENDES",
+            "display_name": "RYAN MENDES",
+            "position": "FW",
+            "captain": true
+          },
+          {
+            "id": 26,
+            "number": 21,
+            "first_name": "NUNO",
+            "last_name": "DA COSTA",
+            "display_name": "NUNO DA COSTA",
+            "position": "MF",
+            "captain": false
+          },
+          {
+            "id": 27,
+            "number": 22,
+            "first_name": "STEVEN",
+            "last_name": "MOREIRA",
+            "display_name": "STEVEN MOREIRA",
+            "position": "DF",
+            "captain": false
+          }
+        ],
+        "substitutes": [
+          {
+            "id": 28,
+            "number": 9,
+            "first_name": "GILSON",
+            "last_name": "BENCHIMOL",
+            "display_name": "GILSON BENCHIMOL",
+            "position": "FW",
+            "captain": false
+          },
+          {
+            "id": 29,
+            "number": 10,
+            "first_name": "JAMIRO",
+            "last_name": "MONTEIRO",
+            "display_name": "JAMIRO MONTEIRO",
+            "position": "MF",
+            "captain": false
+          },
+          {
+            "id": 30,
+            "number": 16,
+            "first_name": "YANNICK",
+            "last_name": "SEMEDO",
+            "display_name": "YANNICK SEMEDO",
+            "position": "MF",
+            "captain": false
+          },
+          {
+            "id": 31,
+            "number": 17,
+            "first_name": "WILLY",
+            "last_name": "SEMEDO",
+            "display_name": "WILLY SEMEDO",
+            "position": "MF",
+            "captain": false
+          },
+          {
+            "id": 32,
+            "number": 19,
+            "first_name": "DAILON",
+            "last_name": "LIVRAMENTO",
+            "display_name": "DAILON LIVRAMENTO",
+            "position": "FW",
+            "captain": false
+          },
+          {
+            "id": 33,
+            "number": 26,
+            "first_name": "HELIO",
+            "last_name": "VARELA",
+            "display_name": "HELIO VARELA",
+            "position": "MF",
+            "captain": false
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "id": 1,
+      "minute": 29,
+      "extra_minute": null,
+      "period": "FH",
+      "type": "goal",
+      "team_id": 1,
+      "player_id": 4,
+      "assist_player_id": 2
+    },
+    {
+      "id": 2,
+      "minute": 59,
+      "extra_minute": null,
+      "period": "SH",
+      "type": "goal",
+      "team_id": 2,
+      "player_id": 23,
+      "assist_player_id": 25
+    },
+    {
+      "id": 3,
+      "minute": 63,
+      "extra_minute": null,
+      "period": "SH",
+      "type": "substitution",
+      "team_id": 1,
+      "player_out_id": 6,
+      "player_in_id": 16
+    },
+    {
+      "id": 4,
+      "minute": 63,
+      "extra_minute": null,
+      "period": "SH",
+      "type": "substitution",
+      "team_id": 1,
+      "player_out_id": 8,
+      "player_in_id": 15
+    },
+    {
+      "id": 5,
+      "minute": 67,
+      "extra_minute": null,
+      "period": "SH",
+      "type": "substitution",
+      "team_id": 2,
+      "player_out_id": 24,
+      "player_in_id": 29
+    },
+    {
+      "id": 6,
+      "minute": 67,
+      "extra_minute": null,
+      "period": "SH",
+      "type": "substitution",
+      "team_id": 2,
+      "player_out_id": 26,
+      "player_in_id": 32
+    },
+    {
+      "id": 7,
+      "minute": 68,
+      "extra_minute": null,
+      "period": "SH",
+      "type": "yellow_card",
+      "team_id": 2,
+      "player_id": 20
+    },
+    {
+      "id": 8,
+      "minute": 80,
+      "extra_minute": null,
+      "period": "SH",
+      "type": "substitution",
+      "team_id": 2,
+      "player_out_id": 25,
+      "player_in_id": 31
+    },
+    {
+      "id": 9,
+      "minute": 80,
+      "extra_minute": null,
+      "period": "SH",
+      "type": "substitution",
+      "team_id": 2,
+      "player_out_id": 21,
+      "player_in_id": 33
+    },
+    {
+      "id": 10,
+      "minute": 80,
+      "extra_minute": null,
+      "period": "SH",
+      "type": "captain_change",
+      "team_id": 2,
+      "old_captain_id": 25,
+      "new_captain_id": 17
+    },
+    {
+      "id": 11,
+      "minute": 84,
+      "extra_minute": null,
+      "period": "SH",
+      "type": "substitution",
+      "team_id": 1,
+      "player_out_id": 3,
+      "player_in_id": 14
+    },
+    {
+      "id": 12,
+      "minute": 85,
+      "extra_minute": null,
+      "period": "SH",
+      "type": "substitution",
+      "team_id": 1,
+      "player_out_id": 10,
+      "player_in_id": 12
+    },
+    {
+      "id": 13,
+      "minute": 92,
+      "extra_minute": null,
+      "period": "ET1",
+      "type": "goal",
+      "team_id": 1,
+      "player_id": 2,
+      "assist_player_id": 7
+    },
+    {
+      "id": 14,
+      "minute": 100,
+      "extra_minute": null,
+      "period": "ET1",
+      "type": "substitution",
+      "team_id": 2,
+      "player_out_id": 23,
+      "player_in_id": 30
+    },
+    {
+      "id": 15,
+      "minute": 100,
+      "extra_minute": null,
+      "period": "ET1",
+      "type": "substitution",
+      "team_id": 2,
+      "player_out_id": 20,
+      "player_in_id": 28
+    },
+    {
+      "id": 16,
+      "minute": 103,
+      "extra_minute": null,
+      "period": "ET1",
+      "type": "goal",
+      "team_id": 2,
+      "player_id": 22,
+      "assist_player_id": 30
+    },
+    {
+      "id": 17,
+      "minute": 104,
+      "extra_minute": null,
+      "period": "ET1",
+      "type": "substitution",
+      "team_id": 1,
+      "player_out_id": 11,
+      "player_in_id": 13
+    },
+    {
+      "id": 18,
+      "minute": 111,
+      "extra_minute": null,
+      "period": "ET2",
+      "type": "own goal",
+      "team_id": 2,
+      "player_id": 18
+    },
+    {
+      "id": 19,
+      "minute": 115,
+      "extra_minute": null,
+      "period": "ET2",
+      "type": "yellow_card",
+      "team_id": 1,
+      "player_id": 13
+    }
+  ],
+  "statistics": {
+    "home": {
+      "ball_possession": 63,
+      "shots": 22,
+      "shots_on_target": 10,
+      "corners": 8,
+      "offsides": 3,
+      "yellow_cards": 1
+    },
+    "away": {
+      "ball_possession": 37,
+      "shots": 16,
+      "shots_on_target": 5,
+      "corners": 8,
+      "offsides": 2,
+      "yellow_cards": 1
+    }
+  }
+}
