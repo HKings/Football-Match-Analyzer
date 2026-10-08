@@ -174,7 +174,8 @@
     },
 
     "away": {
-      "name": "Cabo Verde",
+      "id": 2,
+      "name": "Cape Verde",
       "coach": "Bubista",
       "formation": "4-1-4-1",
       "players": {
@@ -182,8 +183,8 @@
           {
             "id": 17,
             "number": 1,
-            "first_name": "",
-            "last_name": "",
+            "first_name": "Josimar",
+            "last_name": "Dias",
             "display_name": "VOZINHA",
             "position": "GK",
             "captain": false
@@ -191,8 +192,8 @@
           {
             "id": 18,
             "number": 3,
-            "first_name": "Josimar",
-            "last_name": "Dias",
+            "first_name": "DINEY",
+            "last_name": "BORGES",
             "display_name": "DINEY BORGES",
             "position": "DF",
             "captain": false
@@ -526,6 +527,7 @@
       "team_id": 1,
       "player_id": 13
     }
+    
   ],
   "statistics": {
     "home": {
